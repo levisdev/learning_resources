@@ -21,6 +21,7 @@
 - [FluxBench](https://www.youtube.com/@FluxBench)
 - [element14 presents](https://www.youtube.com/@element14presents)
 - [Phil’s Lab](https://www.youtube.com/@PhilsLab)
+- [Robert Feranec](https://www.youtube.com/@RobertFeranec)
 - [DigiKey](https://www.youtube.com/@digikey)
 - [Ben Eater](https://www.youtube.com/@BenEater)
 - [Low Byte Productions](https://www.youtube.com/@lowbyteproductions)
@@ -56,6 +57,8 @@
 - [ALL ABOUT ELECTRONICS - Quiz (Youtube Channel)](https://www.youtube.com/@allaboutelectronics-quiz)
 - [Prof MAD (Youtube Channel)](https://www.youtube.com/@Profmad)
 - [Electrical and Electronics Engineering (Youtube Channel)](https://www.youtube.com/@Electrical-Engineering-App/videos)
+
+- [Decoupling Capacitors - And why they are important](https://youtu.be/u40kX1DYKdA)
 
 ## Programming
 
@@ -97,3 +100,7 @@
 
 - [Robotics - Brain Station Advanced (Youtube Playlist)](https://www.youtube.com/playlist?list=PLJv0I6tVORGcFjHyhae7CQvh4AedhMUSJ)
 - [Robotics - ThatsEngineering (Youtube Playlist)](https://www.youtube.com/playlist?list=PLZaGkBteQK3HQFSWDM7-yRQWTd86DeDIY)
+
+# Digital design
+
+- [mvidia](https://jaso1024.com/mvidia/)
