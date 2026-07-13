@@ -31,13 +31,6 @@
 - [ScienceClic English](https://www.youtube.com/@ScienceClicEN)
 - [The Efficient Engineer](https://www.youtube.com/@TheEfficientEngineer)
 
-## Websites
-
-- [DeepBlueMbedded](https://deepbluembedded.com/)
-- [Microchip University](https://mu.microchip.com/)
-- [Electronics Tutorials](https://www.electronics-tutorials.ws)
-- [ControllersTech](https://controllerstech.com/)
-
 ## Math
 
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
