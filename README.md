@@ -94,6 +94,10 @@
 - [Robotics - Brain Station Advanced (Youtube Playlist)](https://www.youtube.com/playlist?list=PLJv0I6tVORGcFjHyhae7CQvh4AedhMUSJ)
 - [Robotics - ThatsEngineering (Youtube Playlist)](https://www.youtube.com/playlist?list=PLZaGkBteQK3HQFSWDM7-yRQWTd86DeDIY)
 
-# Digital design
+## Digital design
 
 - [mvidia](https://jaso1024.com/mvidia/)
+
+## FPGA
+
+- [FPGAs Aren’t Processors (Unless You Want Them to Be) || FPGA Deep Dive and Use](https://youtu.be/d3nuepnbmC4)
